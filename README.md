@@ -1,6 +1,6 @@
 # This is a collection of software, operating systems, and other miscellaneous tools to help the average user fight for their privacy and security online. [![delightful](https://codeberg.org/LinuxCafeFederation/awesome-alternatives/raw/branch/master/delightful-badge.png)](https://codeberg.org/teaserbot-labs/delightful)
 
-## [Operating System](https://en.wikipedia.org/wiki/Operating_system)
+## [Operating Systems](https://en.wikipedia.org/wiki/Operating_system)
 
 ### [Fedora](https://getfedora.org/)
 Fedora uses Security-Enhanced Linux by default, which implements a variety of security policies, including mandatory access controls, which Fedora adopted early on. Fedora provides a hardening wrapper, and does hardening for all of its packages by using compiler features such as position-independent executable (PIE). [Wikipedia](https://en.wikipedia.org/wiki/Fedora_operating_system)).

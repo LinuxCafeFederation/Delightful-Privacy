@@ -11,10 +11,10 @@ Pop!_OS provides full out-of-the-box support for both AMD and Nvidia GPUs. It is
 ### [Debian](https://www.debian.org/)
 Debian is one of the oldest operating systems based on the Linux kernel. The project is coordinated over the Internet by a team of volunteers guided by the Debian Project Leader and three foundational documents: the Debian Social Contract, the Debian Constitution, and the Debian Free Software Guidelines. New distributions are updated continually, and the next candidate is released after a time-based freeze. [Wikipedia](https://en.wikipedia.org/wiki/Debian)
 
+### **For enhanced security**
+
 ### [Qubes OS](https://www.qubes-os.org/)
 Qubes OS is a security-focused desktop operating system that aims to provide security through isolation. Virtualization is performed by Xen, and user environments can be based on Fedora, Debian, Whonix, and Microsoft Windows, among other operating systems. [Wikipedia](https://en.wikipedia.org/wiki/Qubes_OS)
-
-### **For enhanced security**
 
 ### [Tails](https://tails.boum.org/)
 Tails, or The Amnesic Incognito Live System, is a security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity. All its incoming and outgoing connections are forced to go through Tor, and any non-anonymous connections are blocked. [Wikipedia](https://en.wikipedia.org/wiki/Tails_(operating_system)).

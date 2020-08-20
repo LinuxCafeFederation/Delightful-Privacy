@@ -20,7 +20,36 @@ Qubes OS is a security-focused desktop operating system that aims to provide sec
 Tails, or The Amnesic Incognito Live System, is a security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity. All its incoming and outgoing connections are forced to go through Tor, and any non-anonymous connections are blocked. [Wikipedia](https://en.wikipedia.org/wiki/Tails_(operating_system)).
 
 ### [Whonix](https://www.whonix.org/)
-Whonix  is a Debian GNU/Linux–based security-focused[4] Linux distribution. It aims to provide privacy, security and anonymity on the internet. The operating system consists of two virtual machines, a "Workstation" and a Tor "Gateway", running Debian GNU/Linux. All communications are forced through the Tor network to accomplish this. [Wikipedia](https://en.wikipedia.org/wiki/Whonix)
+Whonix  is a Debian GNU/Linux–based security-focused Linux distribution. It aims to provide privacy, security and anonymity on the internet. The operating system consists of two virtual machines, a "Workstation" and a Tor "Gateway", running Debian GNU/Linux. All communications are forced through the Tor network to accomplish this. [Wikipedia](https://en.wikipedia.org/wiki/Whonix)
+
+# Web Browsers
+
+## For Desktop
+
+### [Firefox](https://www.mozilla.org/)
+Firefox, is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation. [Wikipedia](https://en.wikipedia.org/wiki/Firefox)
+
+### [Tor](https://www.torproject.org/)
+Tor is free and open-source software for enabling anonymous communication. The name derived from the acronym for the original software project name "The Onion Router". Tor directs Internet traffic through a free, worldwide, volunteer overlay network consisting of more than seven thousand relays to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult to trace Internet activity to the user. [Wikipedia](https://en.eikipedia.org/wiki/Tor_%28anonymity_network%29)
+
+### [UnGoogled-Chromium](https://github.com/Eloston/ungoogled-chromium)
+Without signing in to a Google Account, Chromium does pretty well in terms of security and privacy. However, Chromium still has some dependency on Google web services and binaries. In addition, Google designed Chromium to be easy and intuitive for users, which means they compromise on transparency and control of internal operations.
+
+ungoogled-chromium addresses these issues in the following ways:
+
+- Remove all remaining background requests to any web services while building and running the browser
+
+- Remove all code specific to Google web services
+
+- Remove all uses of pre-made binaries from the source code, and replace them with user-provided alternatives when possible.   Disable features that inhibit control and transparency, and add or modify features that promote them (these changes will almost always require manual activation or enabling). [Github](https://github.com/Eloston/ungoogled-chromium)  
+
+# For mobile
+
+## Bromite
+
+## Firefox Preview
+
+## Tor
 
 # Privacy Alternatives & Services
 

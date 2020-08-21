@@ -47,12 +47,17 @@ ungoogled-chromium addresses these issues in the following ways:
 
 ## For mobile
 
-## [Bromite](https://www.bromite.org/) Android Only
+### [Bromite](https://www.bromite.org/) Android Only
 Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser! [Bromite](https://www.bromite.org)
 
-## Firefox Focus [Android](https://play.google.com/store/apps/details?id=org.mozilla.focus) [iOS](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337)
+### Firefox Focus [Android](https://play.google.com/store/apps/details?id=org.mozilla.focus) - [iOS](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337)
+Firefox Focus is a free and open-source privacy-focused browser from Mozilla, available for Android and iOS. [Wikipedia](https://en.wikipedia.org/wiki/Firefox_Focus)
 
-## [Tor](https://www.torproject.org/) [Android](https://play.google.com/store/apps/details?id=org.torproject.torbrowser) [iOS](https://apps.apple.com/us/app/onion-browser/id519296448)
+### [Tor](https://www.torproject.org/)Browser for mobile [Android](https://play.google.com/store/apps/details?id=org.torproject.torbrowser) - [iOS](https://apps.apple.com/us/app/onion-browser/id519296448)
+Tor protects your privacy on the internet by hiding the connection
+between your Internet address and the services you use. We believe Tor
+is reasonably secure, but please ensure you read the instructions and
+configure it properly. [Github](https://github.com/guardianproject/tor-android)
 
 ## [Email](https://en.wikipedia.org/wiki/Email)
 

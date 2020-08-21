@@ -1,4 +1,6 @@
-# This is a collection of software, operating systems, and other miscellaneous tools to help the average user fight for their privacy and security online. [![delightful](https://codeberg.org/LinuxCafeFederation/awesome-alternatives/raw/branch/master/delightful-badge.png)](https://codeberg.org/teaserbot-labs/delightful)
+# Delightful Privacy [![delightful](https://codeberg.org/LinuxCafeFederation/awesome-alternatives/raw/branch/master/delightful-badge.png)](https://codeberg.org/teaserbot-labs/delightful)
+
+This is a collection of software, operating systems, and other miscellaneous tools to help the average user fight for their privacy and security online.
 
 ## [Operating Systems](https://en.wikipedia.org/wiki/Operating_system)
 

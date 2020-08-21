@@ -13,7 +13,7 @@ Pop!_OS provides full out-of-the-box support for both AMD and Nvidia GPUs. It is
 ### [Debian](https://www.debian.org/)
 Debian is one of the oldest operating systems based on the Linux kernel. The project is coordinated over the Internet by a team of volunteers guided by the Debian Project Leader and three foundational documents: the Debian Social Contract, the Debian Constitution, and the Debian Free Software Guidelines. New distributions are updated continually, and the next candidate is released after a time-based freeze. [Wikipedia](https://en.wikipedia.org/wiki/Debian)
 
-### [openSUSE Tumbleweed](https://software.opensuse.org/distributions/tumbleweed) [Rolling Release!](https://en.wikipedia.org/wiki/Rolling_release)
+### [openSUSE Tumbleweed](https://software.opensuse.org/distributions/tumbleweed) - [Rolling Release!](https://en.wikipedia.org/wiki/Rolling_release)
 Any user who wishes to have the newest packages that include, but are not limited to, the Linux Kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. [openSUSE](https://www.opensuse.org/#Tumbleweed)
 
 ### **For enhanced security**

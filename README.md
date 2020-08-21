@@ -58,3 +58,9 @@ ungoogled-chromium addresses these issues in the following ways:
 ## Email
 
 ### TODO: finish
+
+# Mirrors
+
+- Codeberg: https://codeberg.org/LinuxCafeFederation/Delightful-Privacy
+- GitLab (main): https://gitlab.com/linuxcafefederation/Delightful-Privacy
+- GitHub: https://github.com/LinuxCafeFederation/Delightful-Privacy

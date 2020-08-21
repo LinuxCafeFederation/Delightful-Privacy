@@ -53,7 +53,7 @@ Bromite is a Chromium fork with ad blocking and privacy enhancements; take back 
 ### Firefox Focus [Android](https://play.google.com/store/apps/details?id=org.mozilla.focus) - [iOS](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337)
 Firefox Focus is a free and open-source privacy-focused browser from Mozilla, available for Android and iOS. [Wikipedia](https://en.wikipedia.org/wiki/Firefox_Focus)
 
-### [Tor](https://www.torproject.org/)Browser for mobile [Android](https://play.google.com/store/apps/details?id=org.torproject.torbrowser) - [iOS](https://apps.apple.com/us/app/onion-browser/id519296448)
+### [Tor](https://www.torproject.org/) Browser for mobile [Android](https://play.google.com/store/apps/details?id=org.torproject.torbrowser) - [iOS](https://apps.apple.com/us/app/onion-browser/id519296448)
 Tor protects your privacy on the internet by hiding the connection
 between your Internet address and the services you use. We believe Tor
 is reasonably secure, but please ensure you read the instructions and
@@ -69,6 +69,12 @@ There are many ears listening on the Internet, which is why all our services req
 
 ### [Disroot](https://disroot.org)
 Disroot is a decentralized cloud-based service that allows you to store your files and communicate with one another. Established by a privacy-focused organization of voulunteers, if we look at Disroot as an email provider specifically, it stands out thanks to its emphasis on security with a completly free open-source approach. [ProPrivacy](https://proprivacy.com/)
+
+## [Search Engine](https://en.wikipedia.org/wiki/Web_search_engine)
+TODO
+
+## [VPN](https://en.wikipedia.org/wiki/Virtual_private_network))
+TODO
 
 # Mirrors
 

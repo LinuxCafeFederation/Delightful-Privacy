@@ -31,7 +31,7 @@ Whonix  is a Debian GNU/Linux–based security-focused Linux distribution. It ai
 
 ## For Desktop
 
-### [Firefox](https://www.mozilla.org/)
+### [Firefox](https://www.mozilla.org/) Needs manual tweaking to be more secure! Use [ghacks](https://github.com/ghacksuserjs/ghacks-user.js/wiki/1.1-Overview)
 Firefox, is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation. [Wikipedia](https://en.wikipedia.org/wiki/Firefox)
 
 ### [Tor](https://www.torproject.org/)

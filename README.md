@@ -24,7 +24,7 @@ Tails, or The Amnesic Incognito Live System, is a security-focused Debian-based 
 ### [Whonix](https://www.whonix.org/)
 Whonix  is a Debian GNU/Linux–based security-focused Linux distribution. It aims to provide privacy, security and anonymity on the internet. The operating system consists of two virtual machines, a "Workstation" and a Tor "Gateway", running Debian GNU/Linux. All communications are forced through the Tor network to accomplish this. [Wikipedia](https://en.wikipedia.org/wiki/Whonix)
 
-# Web Browsers
+# [Web Browsers](https://en.wikipedia.org/wiki/Web_browser)
 
 ## For Desktop
 
@@ -45,19 +45,25 @@ ungoogled-chromium addresses these issues in the following ways:
 
 - Remove all uses of pre-made binaries from the source code, and replace them with user-provided alternatives when possible.   Disable features that inhibit control and transparency, and add or modify features that promote them (these changes will almost always require manual activation or enabling). [Github](https://github.com/Eloston/ungoogled-chromium)  
 
-# For mobile
+## For mobile
 
-## Bromite
+## [Bromite](https://www.bromite.org/) Android Only
+Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser! [Bromite](https://www.bromite.org)
 
-## Firefox Preview
+## Firefox Focus [Android](https://play.google.com/store/apps/details?id=org.mozilla.focus) [iOS](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337)
 
-## Tor
+## [Tor](https://www.torproject.org/) [Android](https://play.google.com/store/apps/details?id=org.torproject.torbrowser) [iOS](https://apps.apple.com/us/app/onion-browser/id519296448)
 
-# Privacy Alternatives & Services
+## [Email](https://en.wikipedia.org/wiki/Email)
 
-## Email
+### [Tutanota](https://www.tutanota.com/)
+Tutanota is an end-to-end encrypted email software and freemium hosted secure email service. [Wikipedia](https://en.wikipedia.org/wiki/Tutanota)
 
-### TODO: finish
+### [Mailbox](https://mailbox.org/)
+There are many ears listening on the Internet, which is why all our services require mandatory SSL/TLS-encrypted data transmission. For additional security, we also use enhanced (green) security certificates ("EV") by the independent SwissSign trust service provider from Switzerland (Check the padlock symbol in your web browser's URL field). But this is just the beginning – there is so much more that we do. [Mailbox](https://mailbox.org/)
+
+### [Disroot](https://disroot.org)
+Disroot is a decentralized cloud-based service that allows you to store your files and communicate with one another. Established by a privacy-focused organization of voulunteers, if we look at Disroot as an email provider specifically, it stands out thanks to its emphasis on security with a completly free open-source approach. [ProPrivacy](https://proprivacy.com/)
 
 # Mirrors
 

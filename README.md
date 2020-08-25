@@ -87,7 +87,7 @@ Startpage is a web search engine that highlights privacy as its distinguishing f
 ### [YaCy](https://yacy.net)
 YaCy is a free distributed search engine, built on principles of peer-to-peer (P2P) networks. Its core is a computer program written in Java distributed on several hundred computers, as of September 2006, so-called YaCy-peers. Each YaCy-peer independently crawls through the Internet, analyzes and indexes found web pages, and stores indexing results in a common database (so called index) which is shared with other YaCy-peers using principles of P2P networks. It is a free search engine that everyone can use to build a search portal for their intranet and to help search the public internet clearly. [Wikipedia](https://en.wikipedia.org/wiki/YaCy)
 
-## [VPN](https://en.wikipedia.org/wiki/Virtual_private_network)).*
+## [VPN](https://en.wikipedia.org/wiki/Virtual_private_network)
 ## **If you need anonymity and privacy online use [Tor](https://torproject/org) instead, if you are looking to bypass a geo-restriction, don't trust public WiFi, or are looking to Torrent, a VPN will help you.**
 
 ### [Mullvad](https://mullvad.net)

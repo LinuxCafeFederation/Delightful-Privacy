@@ -90,14 +90,14 @@ YaCy is a free distributed search engine, built on principles of peer-to-peer (P
 ## [VPN](https://en.wikipedia.org/wiki/Virtual_private_network)).*
 ## **If you need anonymity and privacy online use [Tor](https://torproject/org) instead, if you are looking to bypass a geo-restriction, don't trust public WiFi, or are looking to Torrent, a VPN will help you.**
 
-[Mullvad](https://mullvad.net)
+### [Mullvad](https://mullvad.net)
 Mullvad is an open-source commercial virtual private network (VPN) service based in Sweden. Launched in March 2009, Mullvad operates using the WireGuard and OpenVPN protocols. Mullvad accepts Bitcoin and Bitcoin Cash for subscriptions in addition to conventional payment methods. 
 
 No email address or other identifying information is requested during Mullvad's registration process. Rather, a unique 16-digit account number is anonymously generated for each new user. This account number is henceforth used to log in to the Mullvad service.
 
 The TechRadar review notes that "The end result of all this is you don't have to worry about how Mullvad handles court requests to access your usage data, because, well, there isn't any." [Wikipedia](https://en.wikipedia.org/wiki/Mullvad)
 
-[ProtonVPN](https://protonvpn.com)
+### [ProtonVPN](https://protonvpn.com)
 ProtonVPN utilizes OpenVPN (UDP/TCP) and the IKEv2 protocol, with AES-256 encryption. The company has a strict no-logging policy for user connection data, and also prevents DNS and Web-RTC leaks from exposing users' true IP addresses. ProtonVPN also includes Tor access support and a kill switch to shut off Internet access in the event of a lost VPN connection.
 
 In January 2020, ProtonVPN became the first VPN provider to release its source code on all platforms and conduct an independent security audit. ProtonVPN is the only VPN to do so, even though experts say this is a crucial factor in deciding whether to trust a VPN service. [Wikipedia](https://en.wikipedia.org/wiki/ProtonVPN)

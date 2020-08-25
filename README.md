@@ -46,7 +46,7 @@ ungoogled-chromium addresses these issues in the following ways:
 
 - Remove all code specific to Google web services
 
-- Remove all uses of pre-made binaries from the source code, and replace them with user-provided alternatives when possible.   Disable features that inhibit control and transparency, and add or modify features that promote them (these changes will almost always require manual activation or enabling). [Github](https://github.com/Eloston/ungoogled-chromium)  
+- Remove all uses of pre-made binaries from the source code, and replace them with user-provided alternatives when possible.   Disable features that inhibit control and transparency, and add or modify features that promote them (these changes will almost always require manual activation or enabling). [GitHub](https://github.com/Eloston/ungoogled-chromium)  
 
 ## For mobile
 
@@ -60,7 +60,7 @@ Firefox Focus is a free and open-source privacy-focused browser from Mozilla, av
 Tor protects your privacy on the internet by hiding the connection
 between your Internet address and the services you use. We believe Tor
 is reasonably secure, but please ensure you read the instructions and
-configure it properly. [Github](https://github.com/guardianproject/tor-android)
+configure it properly. [GitHub](https://github.com/guardianproject/tor-android)
 
 ## [Email](https://en.wikipedia.org/wiki/Email)
 

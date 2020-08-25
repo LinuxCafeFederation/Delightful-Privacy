@@ -5,7 +5,7 @@ This is a collection of software, operating systems, and other miscellaneous too
 ## [Operating Systems](https://en.wikipedia.org/wiki/Operating_system)
 
 ### [Fedora](https://getfedora.org/)
-Fedora uses Security-Enhanced Linux by default, which implements a variety of security policies, including mandatory access controls, which Fedora adopted early on. Fedora provides a hardening wrapper, and does hardening for all of its packages by using compiler features such as position-independent executable (PIE). [Wikipedia](https://en.wikipedia.org/wiki/Fedora_operating_system)).*
+Fedora uses Security-Enhanced Linux by default, which implements a variety of security policies, including mandatory access controls, which Fedora adopted early on. Fedora provides a hardening wrapper, and does hardening for all of its packages by using compiler features such as position-independent executable (PIE). [Wikipedia](https://en.wikipedia.org/wiki/Fedora_operating_system)
 
 ### [Pop!_OS](https://pop.system76.com/)
 Pop!_OS provides full out-of-the-box support for both AMD and Nvidia GPUs. It is regarded as an easy distribution to set-up for gaming, mainly due to its built-in GPU support. Pop!_OS provides default disk encryption, streamlined window and workspace management, keyboard shortcuts for navigation as well as built in power management profiles. The latest releases also have packages that allow for easy setup for TensorFlow and CUDA. [Wikipedia](https://en.wikipedia.org/wiki/Pop!_OS)

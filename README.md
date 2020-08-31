@@ -33,6 +33,7 @@ Whonix  is a Debian GNU/Linux–based security-focused Linux distribution. It ai
 
 ### [Firefox](https://www.mozilla.org/) Needs manual tweaking to be more secure! Use [ghacks](https://github.com/ghacksuserjs/ghacks-user.js/wiki/1.1-Overview)
 Firefox, is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation. [Wikipedia](https://en.wikipedia.org/wiki/Firefox)
+Recommended addons: [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | [Https Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/) | [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) | [Privacy Possum](https://addons.mozilla.org/en-US/firefox/addon/privacy-possum/) | [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/) | [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) | [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
 
 ### [Tor](https://www.torproject.org/)
 Tor is free and open-source software for enabling anonymous communication. The name derived from the acronym for the original software project name "The Onion Router". Tor directs Internet traffic through a free, worldwide, volunteer overlay network consisting of more than seven thousand relays to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult to trace Internet activity to the user. [Wikipedia](https://en.eikipedia.org/wiki/Tor_%28anonymity_network%29)
@@ -47,6 +48,7 @@ ungoogled-chromium addresses these issues in the following ways:
 - Remove all code specific to Google web services
 
 - Remove all uses of pre-made binaries from the source code, and replace them with user-provided alternatives when possible.   Disable features that inhibit control and transparency, and add or modify features that promote them (these changes will almost always require manual activation or enabling). [GitHub](https://github.com/Eloston/ungoogled-chromium)  
+Recommended addons: [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) | [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) | [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) | [NoScript](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm)
 
 ## For mobile
 

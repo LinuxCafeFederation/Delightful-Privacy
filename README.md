@@ -73,7 +73,7 @@ Tutanota is an end-to-end encrypted email software and freemium hosted secure em
 There are many ears listening on the Internet, which is why all our services require mandatory SSL/TLS-encrypted data transmission. For additional security, we also use enhanced (green) security certificates ("EV") by the independent SwissSign trust service provider from Switzerland (Check the padlock symbol in your web browser's URL field). But this is just the beginning – there is so much more that we do. [Mailbox](https://mailbox.org/)
 
 ### [Disroot](https://disroot.org)
-Disroot is a decentralized cloud-based service that allows you to store your files and communicate with one another. Established by a privacy-focused organization of voulunteers, if we look at Disroot as an email provider specifically, it stands out thanks to its emphasis on security with a completly free open-source approach. [ProPrivacy](https://proprivacy.com/email/review/disroot)
+Disroot is a decentralized cloud-based service that allows you to store your files and communicate with one another. Established by a privacy-focused organization of volunteers, if we look at Disroot as an email provider specifically, it stands out thanks to its emphasis on security with a completly free open-source approach. [ProPrivacy](https://proprivacy.com/email/review/disroot)
 
 ### [ProtonMail](https://protonmail.com/)
 ProtonMail is an end-to-end encrypted email service founded in 2013 in Geneva, Switzerland by scientists who met at the CERN research facility. ProtonMail uses client-side encryption to protect email content and user data before they are sent to ProtonMail servers, unlike other common email providers such as Gmail and Outlook.com. The service can be accessed through a webmail client, the Tor network, or dedicated iOS and Android apps. [Wikipedia](https://en.wikipedia.org/wiki/ProtonMail)
@@ -106,7 +106,7 @@ In January 2020, ProtonVPN became the first VPN provider to release its source c
 
 
 ## For information about alternatives to software and services.
-If you are looking for alternatives to propreitary services like Discord and Facebook, or an open-source alternative to Photoshop, check out our list about [Awesome-Alternatives](https://gitlab.com/linuxcafefederation/awesome-alternatives)
+If you are looking for alternatives to proprietary services like Discord and Facebook, or an open-source alternative to Photoshop, check out our list about [Awesome-Alternatives](https://gitlab.com/linuxcafefederation/awesome-alternatives)
 
 # Mirrors
 

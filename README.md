@@ -31,7 +31,7 @@ Whonix  is a Debian GNU/Linux–based security-focused Linux distribution. It ai
 
 ## For Desktop
 
-### [Firefox](https://www.mozilla.org/) Needs manual tweaking to be more secure! Use [ghacks](https://github.com/ghacksuserjs/ghacks-user.js/wiki/1.1-Overview)
+### [Firefox](https://www.mozilla.org/) Needs manual tweaking to be more secure! Use [arkenfox](https://github.com/arkenfox/user.js/wiki)
 Firefox, is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation. [Wikipedia](https://en.wikipedia.org/wiki/Firefox)
 Recommended addons: [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | [Https Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/) | [Privacy Possum](https://addons.mozilla.org/en-US/firefox/addon/privacy-possum/) | [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/) | [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) | [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/) | [Privacy Redirect](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/)
 

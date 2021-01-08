@@ -36,6 +36,11 @@ Whonix  is a Debian GNU/Linux–based security-focused Linux distribution. It ai
 Firefox, is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation. [Wikipedia](https://en.wikipedia.org/wiki/Firefox)
 Recommended addons: [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | [Https Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/) | [Privacy Possum](https://addons.mozilla.org/en-US/firefox/addon/privacy-possum/) | [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/) | [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) | [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
 
+### [LibreWolf](https://librewolf-community.gitlab.io/)
+This project is an independent “fork” of Firefox, with the primary goals of privacy security and user freedom. It is the community run successor to LibreFox
+
+LibreWolf is designed to minimize data collection and telemetry as much as possible. This is achieved through hundreds of privacy/security/performance settings and patches. Intrusive integrated addons including updater, crashreporter, and pocket are removed too.[LibreWolf](https://librewolf-community.gitlab.io/docs/)
+
 ### [Tor](https://www.torproject.org/)
 Tor is free and open-source software for enabling anonymous communication. The name derived from the acronym for the original software project name "The Onion Router". Tor directs Internet traffic through a free, worldwide, volunteer overlay network consisting of more than seven thousand relays to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult to trace Internet activity to the user. [Wikipedia](https://en.eikipedia.org/wiki/Tor_%28anonymity_network%29)
 

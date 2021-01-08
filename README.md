@@ -22,7 +22,8 @@ Any user who wishes to have the newest packages that include, but are not limite
 Qubes OS is a security-focused desktop operating system that aims to provide security through isolation. Virtualization is performed by Xen, and user environments can be based on Fedora, Debian, Whonix, and Microsoft Windows, among other operating systems. [Wikipedia](https://en.wikipedia.org/wiki/Qubes_OS)
 
 ### [Tails](https://tails.boum.org/)
-Tails, or The Amnesic Incognito Live System, is a security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity. All its incoming and outgoing connections are forced to go through Tor, and any non-anonymous connections are blocked. [Wikipedia](https://en.wikipedia.org/wiki/Tails_(operating_system)).*
+Tails, or The Amnesic Incognito Live System, is a security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity. All its incoming and outgoing connections are forced to go through Tor, and any non-anonymous connections are blocked. 
+[Wikipedia](https://en.wikipedia.org/wiki/Tails_(operating_system)).
 
 ### [Whonix](https://www.whonix.org/)
 Whonix  is a Debian GNU/Linux–based security-focused Linux distribution. It aims to provide privacy, security and anonymity on the internet. The operating system consists of two virtual machines, a "Workstation" and a Tor "Gateway", running Debian GNU/Linux. All communications are forced through the Tor network to accomplish this. [Wikipedia](https://en.wikipedia.org/wiki/Whonix)
@@ -33,7 +34,7 @@ Whonix  is a Debian GNU/Linux–based security-focused Linux distribution. It ai
 
 ### [Firefox](https://www.mozilla.org/) Needs manual tweaking to be more secure! Use [arkenfox](https://github.com/arkenfox/user.js/wiki)
 Firefox, is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation. [Wikipedia](https://en.wikipedia.org/wiki/Firefox)
-Recommended addons: [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | [Https Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/) | [Privacy Possum](https://addons.mozilla.org/en-US/firefox/addon/privacy-possum/) | [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/) | [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) | [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/) | [Privacy Redirect](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/)
+Recommended addons: [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | [Https Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/) | [Privacy Possum](https://addons.mozilla.org/en-US/firefox/addon/privacy-possum/) | [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/) | [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) | [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
 
 ### [Tor](https://www.torproject.org/)
 Tor is free and open-source software for enabling anonymous communication. The name derived from the acronym for the original software project name "The Onion Router". Tor directs Internet traffic through a free, worldwide, volunteer overlay network consisting of more than seven thousand relays to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult to trace Internet activity to the user. [Wikipedia](https://en.eikipedia.org/wiki/Tor_%28anonymity_network%29)
@@ -48,7 +49,7 @@ ungoogled-chromium addresses these issues in the following ways:
 - Remove all code specific to Google web services
 
 - Remove all uses of pre-made binaries from the source code, and replace them with user-provided alternatives when possible.   Disable features that inhibit control and transparency, and add or modify features that promote them (these changes will almost always require manual activation or enabling). [GitHub](https://github.com/Eloston/ungoogled-chromium)  
-Recommended addons: [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) | [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) | [NoScript](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm) | [Privacy Redirect](https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb)
+Recommended addons: [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) | [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) | [NoScript](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm)
 
 ## For mobile
 
@@ -63,6 +64,21 @@ Tor protects your privacy on the internet by hiding the connection
 between your Internet address and the services you use. We believe Tor
 is reasonably secure, but please ensure you read the instructions and
 configure it properly. [GitHub](https://github.com/guardianproject/tor-android)
+
+## [Secure Communications](https://en.wikipedia.org/wiki/Secure_communication)
+
+### [Matrix](https://matrix.org/)
+
+Matrix is an open standard for interoperable, decentralised, real-time communication.. The most popular way to interact with matrix is through [Element](https://element.io/) which was formerly called Riot. [matrix](https://matrix.org/)
+
+### [Signal](https://signal.org/en/) **Requires a phone number.**
+Share Without Insecurity State-of-the-art end-to-end encryption (powered by the open source Signal Protocol) keeps your conversations secure. We can't read your messages or listen to your calls, and no one else can either. Privacy isn’t an optional mode — it’s just the way that Signal works. Every message, every call, every time. [Signal](https://signal.org/en/)
+
+### [Session](https://getsession.org/)
+Session is an end-to-end encrypted messenger that minimises sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance. [getsession](https://getsession.org/)
+
+### [Briar](https://code.briarproject.org/briar/briar)
+Briar is a messaging app designed for activists, journalists, and anyone else who needs a safe, easy and robust way to communicate. [briarproject](https://code.briarproject.org/briar/briar)
 
 ## [Email](https://en.wikipedia.org/wiki/Email)
 
@@ -114,6 +130,14 @@ Addons: [FireFox](https://addons.mozilla.org/en-US/firefox/addon/nitter-redirect
 
 ## For information about alternatives to software and services.
 If you are looking for alternatives to proprietary services like Discord and Facebook, or an open-source alternative to Photoshop, check out our list about [Awesome-Alternatives](https://gitlab.com/linuxcafefederation/awesome-alternatives)
+
+## Linux to Linux Café
+
+- [Linux Café Website](https://linuxcafefederation.github.io/LinuxCafe/)
+- [Linux Café Discord](https://discord.gg/YY4zrNR)
+- [Linux Café Matrix](https://matrix.to/#/+linuxcafegroup:linuxcafe.chat)
+- [Linux Café Telegram](https://t.me/joinchat/Mn4RpxM6KrSLQMBL78yloQ)
+- [Linux Café Reddit](https://reddit.com/r/linuxcafe)
 
 # Mirrors
 

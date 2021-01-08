@@ -85,7 +85,7 @@ Briar is a messaging app designed for activists, journalists, and anyone else wh
 ### [Tutanota](https://www.tutanota.com/)
 Tutanota is an end-to-end encrypted email software and freemium hosted secure email service. [Wikipedia](https://en.wikipedia.org/wiki/Tutanota)
 
-### [Mailbox](https://mailbox.org/) - [Setpu Encrypted Mailbox](https://kb.mailbox.org/display/MBOKBEN/The+Encrypted+Mailbox)
+### [Mailbox](https://mailbox.org/) - [Setup Encrypted Mailbox](https://kb.mailbox.org/display/MBOKBEN/The+Encrypted+Mailbox)
 There are many ears listening on the Internet, which is why all our services require mandatory SSL/TLS-encrypted data transmission. For additional security, we also use enhanced (green) security certificates ("EV") by the independent SwissSign trust service provider from Switzerland (Check the padlock symbol in your web browser's URL field). But this is just the beginning – there is so much more that we do. [Mailbox](https://mailbox.org/)
 
 ### [Disroot](https://disroot.org)

@@ -72,6 +72,9 @@ configure it properly. [GitHub](https://github.com/guardianproject/tor-android)
 
 ## [Secure Communications](https://en.wikipedia.org/wiki/Secure_communication)
 
+### [Jami](https://jami.net/)
+Jami is completely peer-to-peer and doesn't require a server for relaying data between users. Jami is a GNU project backed by the Free Software Foundation, useing state of the art end-to-end encryption with perfect forward secrecy for all communications and comply with the X.509 standard.
+
 ### [Matrix](https://matrix.org/)
 
 Matrix is an open standard for interoperable, decentralised, real-time communication.. The most popular way to interact with matrix is through [Element](https://element.io/) which was formerly called Riot. [matrix](https://matrix.org/)

@@ -14,7 +14,7 @@ Pop!_OS provides full out-of-the-box support for both AMD and Nvidia GPUs. It is
 Debian is one of the oldest operating systems based on the Linux kernel. The project is coordinated over the Internet by a team of volunteers guided by the Debian Project Leader and three foundational documents: the Debian Social Contract, the Debian Constitution, and the Debian Free Software Guidelines. New distributions are updated continually, and the next candidate is released after a time-based freeze. [Wikipedia](https://en.wikipedia.org/wiki/Debian)
 
 ### [openSUSE Tumbleweed](https://software.opensuse.org/distributions/tumbleweed) - [Rolling Release!](https://en.wikipedia.org/wiki/Rolling_release)
-Any user who wishes to have the newest packages that include, but are not limited to, the Linux Kernel, SAMBA, git, desktops, office applications and many other packages, will want Tumbleweed. [openSUSE](https://www.opensuse.org/#Tumbleweed)
+Upstream rolling release of [SuSe Enterprise Linux](https://www.suse.com/products/server/) that uses [openQA](https://open.qa/) before pushing updates to the system. Enables [AppArmor](https://www.apparmor.net/) by default and features the robust system management utility [YaST](https://yast.opensuse.org/).
 
 ### **For enhanced security**
 
@@ -35,11 +35,6 @@ Whonix  is a Debian GNU/Linux–based security-focused Linux distribution. It ai
 ### [Firefox](https://www.mozilla.org/) Needs manual tweaking to be more secure! Use [arkenfox](https://github.com/arkenfox/user.js/wiki)
 Firefox, is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation. [Wikipedia](https://en.wikipedia.org/wiki/Firefox)
 Recommended addons: [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | [Https Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/) | [Privacy Possum](https://addons.mozilla.org/en-US/firefox/addon/privacy-possum/) | [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/) | [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) | [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
-
-### [LibreWolf](https://librewolf-community.gitlab.io/)
-This project is an independent “fork” of Firefox, with the primary goals of privacy security and user freedom. It is the community run successor to LibreFox
-
-LibreWolf is designed to minimize data collection and telemetry as much as possible. This is achieved through hundreds of privacy/security/performance settings and patches. Intrusive integrated addons including updater, crashreporter, and pocket are removed too.[LibreWolf](https://librewolf-community.gitlab.io/docs/)
 
 ### [Tor](https://www.torproject.org/)
 Tor is free and open-source software for enabling anonymous communication. The name derived from the acronym for the original software project name "The Onion Router". Tor directs Internet traffic through a free, worldwide, volunteer overlay network consisting of more than seven thousand relays to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis. Using Tor makes it more difficult to trace Internet activity to the user. [Wikipedia](https://en.eikipedia.org/wiki/Tor_%28anonymity_network%29)
@@ -90,10 +85,7 @@ Briar is a messaging app designed for activists, journalists, and anyone else wh
 
 ## [Email](https://en.wikipedia.org/wiki/Email)
 
-### [Tutanota](https://www.tutanota.com/)
-Tutanota is an end-to-end encrypted email software and freemium hosted secure email service. [Wikipedia](https://en.wikipedia.org/wiki/Tutanota)
-
-### [Mailbox](https://mailbox.org/) - [Setup Encrypted Mailbox](https://kb.mailbox.org/display/MBOKBEN/The+Encrypted+Mailbox)
+### [Mailbox](https://mailbox.org/) - [You have to manually setup encrypted mailbox](https://kb.mailbox.org/display/MBOKBEN/The+Encrypted+Mailbox)
 There are many ears listening on the Internet, which is why all our services require mandatory SSL/TLS-encrypted data transmission. For additional security, we also use enhanced (green) security certificates ("EV") by the independent SwissSign trust service provider from Switzerland (Check the padlock symbol in your web browser's URL field). But this is just the beginning – there is so much more that we do. [Mailbox](https://mailbox.org/)
 
 ### [Disroot](https://disroot.org)
@@ -105,7 +97,7 @@ ProtonMail is an end-to-end encrypted email service founded in 2013 in Geneva, S
 ## [Search Engine](https://en.wikipedia.org/wiki/Web_search_engine)
 
 ### [Searx](https://searx.me)
-searx is a free metasearch engine, available under the GNU Affero General Public License version 3, with the aim of protecting the privacy of its users. To this end, searx does not share users' IP addresses or search history with the search engines from which it gathers results. Tracking cookies served by the search engines are blocked, preventing user-profiling-based results modification. By default, searx queries are submitted via HTTP POST, to prevent users' query keywords from appearing in webserver logs. [Wikipedia](https://en.wikipedia.org/wiki/Searx) - Find public instances of searx here [searx.space](https://searx.space/)
+searx is a free metasearch engine, available under the GNU Affero General Public License version 3, with the aim of protecting the privacy of its users. To this end, searx does not share users' IP addresses or search history with the search engines from which it gathers results. Tracking cookies served by the search engines are blocked, preventing user-profiling-based results modification. By default, searx queries are submitted via HTTP POST, to prevent users' query keywords from appearing in webserver logs. [Wikipedia](https://en.wikipedia.org/wiki/Searx) - Find public instances of searx here [searx.space](https://searx.space/) and always read the Privacy Policy of an instance before using it.
 
 ### [Startpage](https://en.wikipedia.org/wiki/Startpage.com)
 Startpage is a web search engine that highlights privacy as its distinguishing feature. Previously, it was known as the metasearch engine Ixquick, At that time, Startpage was a variant service. Both sites were merged in 2016. [Wikipedia](https://en.wikipedia.org/wiki/Startpage.com)

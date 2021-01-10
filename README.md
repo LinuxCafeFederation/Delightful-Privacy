@@ -1,6 +1,6 @@
 # Delightful Privacy [![delightful](https://codeberg.org/LinuxCafeFederation/awesome-alternatives/raw/branch/master/delightful-badge.png)](https://codeberg.org/teaserbot-labs/delightful)
 
-This is a collection of software, operating systems, and other miscellaneous tools to help the average user fight for their privacy and security online.
+This is a collection of operating systems, online services and other miscellaneous tools to help the average user fight for their privacy and security online. Use in combination with [Awesome-Alternatives](https://gitlab.com/linuxcafefederation/awesome-alternatives) for a truely open and free online experience.
 
 ## [Operating Systems](https://en.wikipedia.org/wiki/Operating_system)
 

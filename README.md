@@ -120,13 +120,6 @@ ProtonVPN utilizes OpenVPN (UDP/TCP) and the IKEv2 protocol, with AES-256 encryp
 
 In January 2020, ProtonVPN became the first VPN provider to release its source code on all platforms and conduct an independent security audit. ProtonVPN is the only VPN to do so, even though experts say this is a crucial factor in deciding whether to trust a VPN service. [Wikipedia](https://en.wikipedia.org/wiki/ProtonVPN)
 
-## Other - This is for alternatives, that while work, aren't full replacements.
-
-### [Nitter](https://nitter.net/)
-A free and open source alternative Twitter front-end focused on privacy.
-Inspired by the Invidious project. [GitHub](https://github.com/zedeus/nitter)
-
-Addons: [FireFox](https://addons.mozilla.org/en-US/firefox/addon/nitter-redirect/) | [Chrome(ium)](https://chrome.google.com/webstore/detail/nitter-redirect/mohaicophfnifehkkkdbcejkflmgfkof)
 
 ## For information about alternatives to software and services.
 If you are looking for alternatives to proprietary services like Discord and Facebook, or an open-source alternative to Photoshop, check out our list about [Awesome-Alternatives](https://gitlab.com/linuxcafefederation/awesome-alternatives)
